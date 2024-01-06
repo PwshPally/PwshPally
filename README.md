@@ -1,4 +1,8 @@
-### Hi there 👋
+### PwshPally
+
+I'm currently working as a Sr. Site Reliability Engineer.  I like being in a place that has the attitude of "if it can be automated, it should be automated."
+
+My interest areas are PowerShell, automation, security, and continuous improvement.
 
 <!--
 **PwshPally/pwshpally** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,6 +15,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
